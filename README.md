@@ -28,7 +28,7 @@ CHESS/
 │
 │── app.py                 # Main Flask application entry point
 │── board.py               # Chess board logic (Python backend)
-│── **init**.py            # Package initializer
+│── init.py            # Package initializer
 │── LICENSE                # License file
 │── README.md              # Project documentation
 
