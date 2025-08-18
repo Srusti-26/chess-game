@@ -1,4 +1,6 @@
 
+
+
 # Chess Game (with Python, Flask & HTML/JS)
 
 A simple Chess game built using **Python (Flask)** for the backend and **HTML + JavaScript** for the frontend user interface.  
@@ -8,10 +10,10 @@ The backend handles chess logic, while the frontend provides an interactive ches
 
 ## Project Structure
 
-```
+```text
 
 CHESS/
-│── pycache/           # Compiled Python files
+│── **pycache**/           # Compiled Python files
 │    ├── board.cpython-311.pyc
 │    ├── board.cpython-312.pyc
 │
@@ -30,7 +32,7 @@ CHESS/
 │── LICENSE                # License file
 │── README.md              # Project documentation
 
-````
+```
 
 ---
 
@@ -40,7 +42,7 @@ CHESS/
    ```bash
    git clone https://github.com/Srusti-26/chess-game.git
    cd chess-game
-````
+```
 
 2. Create a virtual environment:
 
@@ -98,6 +100,5 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 **Srusti**
 
-```
 
 
