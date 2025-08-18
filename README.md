@@ -13,7 +13,7 @@ The backend handles chess logic, while the frontend provides an interactive ches
 ```text
 
 CHESS/
-│── **pycache**/           # Compiled Python files
+│── pycache/           # Compiled Python files
 │    ├── board.cpython-311.pyc
 │    ├── board.cpython-312.pyc
 │
