@@ -42,7 +42,7 @@ CHESS/
    ```bash
    git clone https://github.com/Srusti-26/chess-game.git
    cd chess-game
-```
+   ```
 
 2. Create a virtual environment:
 
