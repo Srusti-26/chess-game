@@ -38,7 +38,7 @@ CHESS/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chess-game.git
+   git clone https://github.com/Srusti-26/chess-game.git
    cd chess-game
 ````
 
@@ -97,8 +97,6 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 ## Author
 
 **Srusti**
-Email: [your-email@example.com](mailto:your-email@example.com)
-GitHub: [your-username](https://github.com/your-username)
 
 ```
 
